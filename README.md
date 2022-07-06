@@ -1,5 +1,9 @@
 # FilmRate
 
+### [Class Diagram](https://lucid.app/documents/view/2c6ec1c4-a1c5-4ebf-94a7-e8cdfc6675c5)
+### [Figma](https://www.figma.com/file/8HJisfA4azFSIYNrZVqhYf/Untitled?node-id=171%3A2)
+
+
 ### Technical tasks
 
 - Registration of new user
